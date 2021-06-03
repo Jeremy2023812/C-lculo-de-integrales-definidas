@@ -1,6 +1,6 @@
 % Titulo: Cálculo de integrales definidas
 % Autor: Irving Jeremy Martinez Avila 
-% Fecha: Jueves 27 de mayo del 2021
+% Fecha: Jueves 3 de junio del 2021
 
 %Limpia la pantalla y las variables
 clc, clear  
